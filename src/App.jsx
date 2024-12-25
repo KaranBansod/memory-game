@@ -1,10 +1,12 @@
 import React from 'react'
-import Memorygame from './components/memory-game'
+import MemoryGame from './components/memory-game'
+
+
 
 function App() {
   return (
     <div>
-    <Memorygame />
+     <MemoryGame />
       </div>
   )
 }
