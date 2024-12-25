@@ -1,5 +1,5 @@
 import React from 'react'
-import MemoryGame from './components/memory-game'
+import MemoryGame from './components/Memory-game.jsx'
 
 
 
